@@ -2,7 +2,7 @@
   "sites": [
     {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lib.json"},
     {"key":"斗鱼","name":"🎤斗鱼(PHP)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"csp_xpath_lib","name":"ququmc(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g1422741595.github.io/mtv/XP/kangbazi.json"},
+    {"key":"csp_xpath_ququ","name":"ququmc(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://g1422741595.github.io/mtv/XP/kangbazi.json"},
    
 {
       "key": "csp_Cokemv",
