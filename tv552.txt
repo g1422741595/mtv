@@ -3,13 +3,39 @@
 
 "sites": [    
  {
-      "key": "libvio",
-      "name": "libvio",
+      "key": "酷云七七",
+      "name": "酷云七七",
       "type": 1,
-      "api": "http://xiaoguozitv.cn/catys/libvio.php",
+      "api": "http://api.kunyu77.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+{
+      "key": "快播云",
+      "name": "快播云",
+      "type": 0,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
     },
     {
       "key": "卧龙",
