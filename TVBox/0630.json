@@ -5,8 +5,21 @@
 //"spider":"https://gitea.com/g142/g142/raw/commit/649a90071808e5b767538f9ef3266697514c2087/html/0701.jar;md5;ea934fa9a92239c09ebcaac35243aa4c",
 //"spider":"https://gitea.com/g142/g142/raw/commit/649a90071808e5b767538f9ef3266697514c2087/html/0701.jar",
 "spider":"https://gitea.com/g142/g142/raw/branch/master/html/0701apple.jar;md5;ea934fa9a92239c09ebcaac35243aa4c",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="]}]}],
-
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="]}]}],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+           // "proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"           
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
+          ]
+        }
+      ]
+    }
+  ],
 
 "sites":[
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
