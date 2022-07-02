@@ -2,8 +2,12 @@
 
 {
 //"spider":"https://g1422741595.github.io/mtv/TVBox/0701.jar",
-"spider":"https://gitea.com/g142/g142/raw/commit/649a90071808e5b767538f9ef3266697514c2087/html/0701.jar;md5;ea934fa9a92239c09ebcaac35243aa4c"
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="]}]}],
+"spider":"https://gitea.com/g142/g142/raw/commit/649a90071808e5b767538f9ef3266697514c2087/html/0701.jar;md5;ea934fa9a92239c09ebcaac35243aa4c",
+//"spider":"https://gitea.com/g142/g142/raw/commit/649a90071808e5b767538f9ef3266697514c2087/html/0701.jar",
+
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["
+proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA==
+"]}]}],
 
 
 "sites":[
