@@ -160,7 +160,7 @@
 		"name": "B站",
 		"type": 3,
 		"api": "csp_Bili",
-		"searchable": 1,
+		"searchable": 0,
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https:\/\/gitea.com\/Pandora2277\/Box\/raw\/branch\/master\/sub\/Bili.json"
