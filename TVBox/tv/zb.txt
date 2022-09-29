@@ -1,6 +1,5 @@
 📺｜定期维护,#genre#
 9月23日更新, http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-
 🌏｜央视频道,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
